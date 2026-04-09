@@ -99,7 +99,7 @@ FinAlgoritmo
 Solicitar dos números y mostrar su multiplicación.
 
 ## Solución en PSeInt
-```pseint
+```pseudocode
 Algoritmo multiplicacion_dos_numeros
 	Definir num1, num2, resultado Como Entero
 
